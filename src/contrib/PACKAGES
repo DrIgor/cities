@@ -1,0 +1,6 @@
+Package: wrapper
+Version: 0.0.0.9000
+Depends: R (>= 3.2.3)
+MD5sum: 86ff8ca9553914f05be8189f5ee7366a
+NeedsCompilation: no
+
